@@ -1,0 +1,7 @@
+﻿  Validating sources
+  Copying sources remotely
+  Starting remote build
+  Compiling sources:
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.WSL.targets(344,5): error : Could not find the specified C/C++ compiler 'g++'. Please make sure that a default C/C++ compiler is installed on the Linux system 'Debian'. You can install a compiler using your system's package manager. If overriding the default compilers, please check that the compiler is installed in the specified path.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.WSL.targets(344,5): error : g++ exited with code 127, please see the Output Window - Build output for more details (NOTE: the build output verbosity might need to be changed in Tools Options to see more information in the Output Window).
